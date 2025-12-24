@@ -183,7 +183,7 @@
     "streamAAC": "https://playerservices.streamtheworld.com/api/livestream-redirect/ARROWBLUESBOXAAC.aac",
     "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/ArrowClassicRock/Arrow%20Bluesbox.png",
     "Category": "Arrow",
-    "Tags": ["Nederlands", "Rock", "Oldies"],
+    "Tags": ["Nederlands", "Blues", "Oldies"],
     "rank": null
   },
   {
@@ -194,7 +194,7 @@
     "streamAAC": "https://playerservices.streamtheworld.com/api/livestream-redirect/ARROWCAZAAC.aac",
     "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/ArrowClassicRock/Arrow%20CAZ!.png",
     "Category": "Arrow",
-    "Tags": ["Nederlands", "Rock", "Oldies"],
+    "Tags": ["Nederlands", "Rock", "Pop", "Oldies"],
     "rank": null
   },
   {
