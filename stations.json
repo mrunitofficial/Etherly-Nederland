@@ -5,7 +5,7 @@
     "Album": "Maakt je dag",
     "streamMP3": "https://stream.100p.nl/100pctnl.mp3",
     "streamAAC": "",
-    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/100pRadio.png",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/100p/100pRadio.png",
     "Category": "100% NL",
     "Tags": ["Nederlands", "Pop", "Nederpop", "Top40"],
     "rank": 10
@@ -16,7 +16,7 @@
     "Album": "Maakt je dag",
     "streamMP3": "https://stream.100p.nl/web01_mp3",
     "streamAAC": "",
-    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/100pFeest.png",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/100p/100pFeest.png",
     "Category": "100% NL",
     "Tags": ["Nederlands", "Nederpop", "Feest"],
     "rank": null
@@ -27,7 +27,7 @@
     "Album": "Maakt je dag",
     "streamMP3": "https://stream.100p.nl/web02_mp3",
     "streamAAC": "",
-    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/100pNonStop.png",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/100p/100pNonStop.png",
     "Category": "100% NL",
     "Tags": ["Nederlands", "Pop", "Nederpop"],
     "rank": null
@@ -38,7 +38,7 @@
     "Album": "Maakt je dag",
     "streamMP3": "https://stream.100p.nl/web03_mp3",
     "streamAAC": "",
-    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/100p70s%2680s.png",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/100p/100p70s%2680s.png",
     "Category": "100% NL",
     "Tags": ["Nederlands", "Pop", "Nederpop", "70's", "80's", "Oldies"],
     "rank": null
@@ -49,7 +49,7 @@
     "Album": "Maakt je dag",
     "streamMP3": "https://stream.100p.nl/web04_mp3",
     "streamAAC": "",
-    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/refs/heads/main/100P90s%2600s.png",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/100p/100P90s%2600s.png",
     "Category": "100% NL",
     "Tags": ["Nederlands", "Pop", "Nederpop", "90's", "00's"],
     "rank": null
@@ -60,7 +60,7 @@
     "Album": "Jouw hits, jouw 538!",
     "streamMP3": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO538.mp3",
     "streamAAC": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO538AAC.aac",
-    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/refs/heads/main/538/538%20Radio.png",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/538/538%20Radio.png",
     "Category": "538",
     "Tags": ["Nederlands", "Pop", "Dance", "Top40"],
     "rank": 3
@@ -71,7 +71,7 @@
     "Album": "",
     "streamMP3": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR21.mp3",
     "streamAAC": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR21AAC.aac",
-    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/refs/heads/main/538/538%2090's.png",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/538/538%2090's.png",
     "Category": "538",
     "Tags": ["Nederlands", "Pop", "90's"],
     "rank": null
