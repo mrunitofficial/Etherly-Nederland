@@ -200,12 +200,23 @@
   {
     "ID": "BNR",
     "Name": "BNR Nieuwsradio",
-    "Album": "",
-    "streamMP3": "https://stream.bnr.nl/bnr_mp3_128_02",
-    "streamAAC": "",
-    "ArtURL": "",
+    "Album": "Blijf Scherp",
+    "streamMP3": "https://playerservices.streamtheworld.com/pls/BNR_NIEUWSRADIO.pls",
+    "streamAAC": "https://playerservices.streamtheworld.com/pls/BNR_NIEUWSRADIOAAC.pls",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/BNR/BNR%20Nieuwsradio.png",
     "Category": "BNR",
     "Tags": ["Nederlands", "Nieuws", "Talk"],
+    "rank": null
+  },
+  {
+    "ID": "BNRBusinessBeats",
+    "Name": "BNR Business Beats",
+    "Album": "Your Business, Our Beats",
+    "streamMP3": "https://playerservices.streamtheworld.com/api/livestream-redirect/BNR_BUSINESS_BEATS.mp3",
+    "streamAAC": "https://playerservices.streamtheworld.com/api/livestream-redirect/BNR_BUSINESS_BEATSAAC.aac",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/BNR/BNR%20Business%20Beats.png",
+    "Category": "BNR",
+    "Tags": ["Nederlands", "Nieuws", "Pop"],
     "rank": null
   },
   {
