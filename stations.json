@@ -5,7 +5,7 @@
     "Album": "Maakt je dag",
     "streamMP3": "https://stream.100p.nl/100pctnl.mp3",
     "streamAAC": "",
-    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/EtherlyArt/main/100pRadio.png",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/100pRadio.png",
     "Category": "100% NL",
     "Tags": ["Nederlands", "Pop", "Nederpop", "Top40"],
     "rank": 10
@@ -16,7 +16,7 @@
     "Album": "Maakt je dag",
     "streamMP3": "https://stream.100p.nl/web01_mp3",
     "streamAAC": "",
-    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/EtherlyArt/main/100pFeest.png",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/100pFeest.png",
     "Category": "100% NL",
     "Tags": ["Nederlands", "Nederpop", "Feest"],
     "rank": null
@@ -27,7 +27,7 @@
     "Album": "Maakt je dag",
     "streamMP3": "https://stream.100p.nl/web02_mp3",
     "streamAAC": "",
-    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/EtherlyArt/main/100pNonStop.png",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/100pNonStop.png",
     "Category": "100% NL",
     "Tags": ["Nederlands", "Pop", "Nederpop"],
     "rank": null
@@ -38,7 +38,7 @@
     "Album": "Maakt je dag",
     "streamMP3": "https://stream.100p.nl/web03_mp3",
     "streamAAC": "",
-    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/EtherlyArt/main/100p70s%2680s.png",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/100p70s%2680s.png",
     "Category": "100% NL",
     "Tags": ["Nederlands", "Pop", "Nederpop", "70's", "80's", "Oldies"],
     "rank": null
@@ -49,7 +49,7 @@
     "Album": "Maakt je dag",
     "streamMP3": "https://stream.100p.nl/web04_mp3",
     "streamAAC": "",
-    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/EtherlyArt/refs/heads/main/100P90s%2600s.png",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/refs/heads/main/100P90s%2600s.png",
     "Category": "100% NL",
     "Tags": ["Nederlands", "Pop", "Nederpop", "90's", "00's"],
     "rank": null
@@ -60,7 +60,7 @@
     "Album": "Jouw hits, jouw 538!",
     "streamMP3": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO538.mp3",
     "streamAAC": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO538AAC.aac",
-    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/EtherlyArt/main/538Radio.png",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/refs/heads/main/538/538%20Radio.png",
     "Category": "538",
     "Tags": ["Nederlands", "Pop", "Dance", "Top40"],
     "rank": 3
@@ -70,8 +70,8 @@
     "Name": "538 90's",
     "Album": "",
     "streamMP3": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR21.mp3",
-    "streamAAC": "",
-    "ArtURL": "",
+    "streamAAC": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR21AAC.aac",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/refs/heads/main/538/538%2090's.png",
     "Category": "538",
     "Tags": ["Nederlands", "Pop", "90's"],
     "rank": null
@@ -115,7 +115,7 @@
     "Album": "Jouw hits, jouw 538!",
     "streamMP3": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR19.mp3",
     "streamAAC": "",
-    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/EtherlyArt/main/538Radio.png",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/538Radio.png",
     "Category": "538",
     "Tags": ["Nederlands", "Dance", "House", "Zomerhits"],
     "rank": null
@@ -126,7 +126,7 @@
     "Album": "Jouw hits, jouw 538!",
     "streamMP3": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR09.mp3",
     "streamAAC": "",
-    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/EtherlyArt/main/538Radio.png",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/538Radio.png",
     "Category": "538",
     "Tags": ["Nederlands", "Pop", "Dance"],
     "rank": null
@@ -148,7 +148,7 @@
     "Album": "Jouw hits, jouw 538!",
     "streamMP3": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR13.mp3",
     "streamAAC": "",
-    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/EtherlyArt/main/538Radio.png",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/538Radio.png",
     "Category": "538",
     "Tags": ["Nederlands", "Pop", "Top40"],
     "rank": null
@@ -533,7 +533,7 @@
     "Album": "The sound of Tomorrowland",
     "streamMP3": "https://stream.bigfm.de/oneworldradio/mp3-128/tml",
     "streamAAC": "",
-    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/EtherlyArt/main/OneWorldRadio.png",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/OneWorldRadio.png",
     "Category": "Tomorrowland",
     "Tags": ["Dance", "House", "Tomorrowland"],
     "rank": null
@@ -841,7 +841,7 @@
     "Album": "Join the Club",
     "streamMP3": "https://playerservices.streamtheworld.com/api/livestream-redirect/VERONICA.mp3",
     "streamAAC": "https://playerservices.streamtheworld.com/api/livestream-redirect/VERONICA.aac",
-    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/EtherlyArt/main/VeronicaRadio.png",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/VeronicaRadio.png",
     "Category": "Veronica",
     "Tags": ["Nederlands", "Rock", "Pop", "Oldies"],
     "rank": 9
@@ -852,7 +852,7 @@
     "Album": "",
     "streamMP3": "https://playerservices.streamtheworld.com/api/livestream-redirect/VERONICA80S.mp3",
     "streamAAC": "",
-    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/EtherlyArt/main/VeronicaRadio.png",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/VeronicaRadio.png",
     "Category": "Veronica",
     "Tags": ["Nederlands", "Rock", "Pop", "80's", "Oldies"],
     "rank": null
@@ -863,7 +863,7 @@
     "Album": "",
     "streamMP3": "https://playerservices.streamtheworld.com/api/livestream-redirect/VERONICA90S.mp3",
     "streamAAC": "",
-    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/EtherlyArt/main/VeronicaRadio.png",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/VeronicaRadio.png",
     "Category": "Veronica",
     "Tags": ["Nederlands", "Rock", "Pop", "90's", "Oldies"],
     "rank": null
@@ -874,7 +874,7 @@
     "Album": "Join the Club",
     "streamMP3": "https://playerservices.streamtheworld.com/api/livestream-redirect/VERONICAROCK.mp3",
     "streamAAC": "",
-    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/EtherlyArt/main/VeronicaRadio.png",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/VeronicaRadio.png",
     "Category": "Veronica",
     "Tags": ["Nederlands", "Rock"],
     "rank": null
@@ -885,7 +885,7 @@
     "Album": "Join the Club",
     "streamMP3": "https://playerservices.streamtheworld.com/api/livestream-redirect/VERONICAT1000.mp3",
     "streamAAC": "",
-    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/EtherlyArt/main/VeronicaRadio.png",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/VeronicaRadio.png",
     "Category": "Veronica",
     "Tags": ["Nederlands", "Rock", "Pop", "Top1000", "Oldies"],
     "rank": null
