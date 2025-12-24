@@ -539,17 +539,6 @@
     "rank": 8
   },
   {
-    "ID": "NPOBlend",
-    "Name": "NPO Blend",
-    "Album": "The New Rhythm",
-    "streamMP3": "https://icecast.omroep.nl/npoblend-bb-mp3",
-    "streamAAC": "https://icecast.omroep.nl/npoblend-bb-aac",
-    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/NPO/NPO%20Blend.png",
-    "Category": "NPO",
-    "Tags": ["Nederlands", "Nederpop", "Volksmuziek"],
-    "rank": null
-  },
-  {
     "ID": "NPOCampusRadio",
     "Name": "NPO Campus Radio",
     "Album": "De soundtrack van je studententijd",
@@ -578,6 +567,17 @@
     "streamMP3": "https://icecast.omroep.nl/radio2-sterrennl-mp3",
     "streamAAC": "https://icecast.omroep.nl/radio2-sterrennl-aac",
     "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/NPO/NPO%20Sterren%20NL.png",
+    "Category": "NPO",
+    "Tags": ["Nederlands", "Nederpop", "Volksmuziek"],
+    "rank": null
+  },
+  {
+    "ID": "NPOBlend",
+    "Name": "NPO Blend",
+    "Album": "The New Rhythm",
+    "streamMP3": "https://icecast.omroep.nl/npoblend-bb-mp3",
+    "streamAAC": "https://icecast.omroep.nl/npoblend-bb-aac",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/NPO/NPO%20Blend.png",
     "Category": "NPO",
     "Tags": ["Nederlands", "Nederpop", "Volksmuziek"],
     "rank": null
