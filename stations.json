@@ -167,10 +167,32 @@
   {
     "ID": "ArrowClassicRock",
     "Name": "Arrow Classic Rock",
-    "Album": "",
-    "streamMP3": "https://stream.arrow.nl/arrow",
+    "Album": "Home of Rock",
+    "streamMP3": "https://stream.arrowrockradio.com/arrowrockradio",
     "streamAAC": "",
-    "ArtURL": "",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/ArrowClassicRock/Arrow%20Classic%20Rock.png",
+    "Category": "Arrow",
+    "Tags": ["Nederlands", "Rock", "Oldies"],
+    "rank": null
+  },
+  {
+    "ID": "ArrowBluesBox",
+    "Name": "Arrow Bluesbox",
+    "Album": "Blues, Bluesrock & Americana",
+    "streamMP3": "https://playerservices.streamtheworld.com/api/livestream-redirect/ARROWBLUESBOX.mp3",
+    "streamAAC": "https://playerservices.streamtheworld.com/api/livestream-redirect/ARROWBLUESBOXAAC.aac",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/ArrowClassicRock/Arrow%20Bluesbox.png",
+    "Category": "Arrow",
+    "Tags": ["Nederlands", "Rock", "Oldies"],
+    "rank": null
+  },
+  {
+    "ID": "ArrowCAZ!",
+    "Name": "Arrow CAZ!",
+    "Album": "Your Hits, More Music",
+    "streamMP3": "https://playerservices.streamtheworld.com/api/livestream-redirect/ARROWCAZ.mp3",
+    "streamAAC": "https://playerservices.streamtheworld.com/api/livestream-redirect/ARROWCAZAAC.aac",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/ArrowClassicRock/Arrow%20CAZ!.png",
     "Category": "Arrow",
     "Tags": ["Nederlands", "Rock", "Oldies"],
     "rank": null
