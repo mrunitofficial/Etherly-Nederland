@@ -68,7 +68,7 @@
   {
     "ID": "538_90s",
     "Name": "538 90's",
-    "Album": "",
+    "Album": "Jouw hits, jouw 538!",
     "streamMP3": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR21.mp3",
     "streamAAC": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR21AAC.aac",
     "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/538/538%2090's.png",
@@ -77,12 +77,12 @@
     "rank": null
   },
   {
-    "ID": "538DanceDept",
+    "ID": "538DanceDeptartment",
     "Name": "538 Dance Department",
-    "Album": "",
+    "Album": "Jouw hits, jouw 538!",
     "streamMP3": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR01.mp3",
-    "streamAAC": "",
-    "ArtURL": "",
+    "streamAAC": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR01AAC.aac",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/538/538%20Dance%20Department.png",
     "Category": "538",
     "Tags": ["Nederlands", "Dance", "House"],
     "rank": null
@@ -90,10 +90,10 @@
   {
     "ID": "538GreatestHits",
     "Name": "538 Greatest hits",
-    "Album": "",
+    "Album": "Jouw hits, jouw 538!",
     "streamMP3": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR08.mp3",
-    "streamAAC": "",
-    "ArtURL": "",
+    "streamAAC": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR08AAC.aac",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/538/538%20Greatest%20Hits.png",
     "Category": "538",
     "Tags": ["Nederlands", "Pop", "Oldies"],
     "rank": null
@@ -101,10 +101,10 @@
   {
     "ID": "538Hitzone",
     "Name": "538 Hitzone",
-    "Album": "",
+    "Album": "Jouw hits, jouw 538!",
     "streamMP3": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR12.mp3",
-    "streamAAC": "",
-    "ArtURL": "",
+    "streamAAC": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR12AAC.aac",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/538/538%20Hitzone.png",
     "Category": "538",
     "Tags": ["Nederlands", "Pop", "Top40"],
     "rank": null
@@ -114,8 +114,8 @@
     "Name": "538 Ibiza",
     "Album": "Jouw hits, jouw 538!",
     "streamMP3": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR19.mp3",
-    "streamAAC": "",
-    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/538Radio.png",
+    "streamAAC": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR19AAC.aac",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/538/538%20Ibiza.png",
     "Category": "538",
     "Tags": ["Nederlands", "Dance", "House", "Zomerhits"],
     "rank": null
@@ -125,8 +125,8 @@
     "Name": "538 Non-Stop",
     "Album": "Jouw hits, jouw 538!",
     "streamMP3": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR09.mp3",
-    "streamAAC": "",
-    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/538Radio.png",
+    "streamAAC": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR09.mp3AAC.aac",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/538/538%20Non-Stop.png",
     "Category": "538",
     "Tags": ["Nederlands", "Pop", "Dance"],
     "rank": null
@@ -134,10 +134,10 @@
   {
     "ID": "538Party",
     "Name": "538 Party",
-    "Album": "",
+    "Album": "Jouw hits, jouw 538!",
     "streamMP3": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR16.mp3",
-    "streamAAC": "",
-    "ArtURL": "",
+    "streamAAC": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR16.mp3AAC.aac",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/538/538%20Party.png",
     "Category": "538",
     "Tags": ["Nederlands", "Pop", "Dance", "Feest"],
     "rank": null
@@ -147,8 +147,8 @@
     "Name": "538 Top 50",
     "Album": "Jouw hits, jouw 538!",
     "streamMP3": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR13.mp3",
-    "streamAAC": "",
-    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/538Radio.png",
+    "streamAAC": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR13AAC.aac",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/538/538%20Top%20Top50.png",
     "Category": "538",
     "Tags": ["Nederlands", "Pop", "Top40"],
     "rank": null
@@ -156,10 +156,10 @@
   {
     "ID": "538Zomer",
     "Name": "538 Zomer",
-    "Album": "",
+    "Album": "Jouw hits, jouw 538!",
     "streamMP3": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR06.mp3",
-    "streamAAC": "",
-    "ArtURL": "",
+    "streamAAC": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR06AAC.aac",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/538/538%20Zomer.png",
     "Category": "538",
     "Tags": ["Nederlands", "Pop", "Zomerhits"],
     "rank": null
