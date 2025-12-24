@@ -511,7 +511,7 @@
     "Album": "We Want More!",
     "streamMP3": "https://icecast.omroep.nl/3fm-bb-mp3",
     "streamAAC": "https://icecast.omroep.nl/3fm-bb-aac",
-    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/NPO/NPO%20Radio%203FM.png",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/NPO/NPO%203FM.png",
     "Category": "NPO",
     "Tags": ["Nederlands", "Pop", "Alternative"],
     "rank": 7
