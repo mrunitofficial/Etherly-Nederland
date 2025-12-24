@@ -148,7 +148,7 @@
     "Album": "Jouw hits, jouw 538!",
     "streamMP3": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR13.mp3",
     "streamAAC": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR13AAC.aac",
-    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/538/538%20Top50.png",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/538/538%20Top%2050.png",
     "Category": "538",
     "Tags": ["Nederlands", "Pop", "Top40"],
     "rank": null
