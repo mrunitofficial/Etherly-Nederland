@@ -1,7 +1,7 @@
 [
   {
-    "ID": "100pRadio",
-    "Name": "100% NL Radio",
+    "ID": "100p",
+    "Name": "100% NL",
     "Album": "Maakt je dag",
     "streamMP3": "https://stream.100p.nl/100pctnl.mp3",
     "streamAAC": "",
@@ -55,7 +55,7 @@
     "rank": null
   },
   {
-    "ID": "538Radio",
+    "ID": "538",
     "Name": "Radio 538",
     "Album": "Jouw hits, jouw 538!",
     "streamMP3": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO538.mp3",
@@ -66,7 +66,7 @@
     "rank": 3
   },
   {
-    "ID": "538_90s",
+    "ID": "53890s",
     "Name": "538 90's",
     "Album": "Jouw hits, jouw 538!",
     "streamMP3": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR21.mp3",
@@ -486,21 +486,21 @@
   {
     "ID": "JumboRadio",
     "Name": "Jumbo Radio",
-    "Album": "",
-    "streamMP3": "https://stream.jumboradio.nl/jumboradio-mp3",
-    "streamAAC": "",
-    "ArtURL": "",
-    "Category": "Jumbo Radio",
+    "Album": "En dat voor die prijs!",
+    "streamMP3": "https://playerservices.streamtheworld.com/api/livestream-redirect/JUMBORADIO.mp3",
+    "streamAAC": "https://playerservices.streamtheworld.com/api/livestream-redirect/JUMBORADIOAAC.aac",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/refs/heads/main/Jumbo/Jumbo%20Radio.png",
+    "Category": "Jumbo",
     "Tags": ["Nederlands", "Pop"],
     "rank": null
   },
   {
     "ID": "KINK",
     "Name": "KINK",
-    "Album": "",
-    "streamMP3": "https://stream.kink.nl/kink",
-    "streamAAC": "",
-    "ArtURL": "",
+    "Album": "Alternative Rock Radio",
+    "streamMP3": "https://22343.live.streamtheworld.com/KINK.mp3",
+    "streamAAC": "https://22343.live.streamtheworld.com/KINKAAC2.aac",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/refs/heads/main/KINK/KINK.png",
     "Category": "KINK",
     "Tags": ["Nederlands", "Rock", "Alternative"],
     "rank": null
@@ -508,34 +508,45 @@
   {
     "ID": "KINK80s",
     "Name": "KINK 80's",
-    "Album": "",
-    "streamMP3": "https://stream.kink.nl/kink80s",
-    "streamAAC": "",
-    "ArtURL": "",
+    "Album": "Alternative Rock Radio",
+    "streamMP3": "https://playerservices.streamtheworld.com/api/livestream-redirect/KINK_DNA.mp3",
+    "streamAAC": "https://playerservices.streamtheworld.com/api/livestream-redirect/KINK_DNAAAC.aac",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/refs/heads/main/KINK/KINK%2080.png",
     "Category": "KINK",
-    "Tags": ["Nederlands", "Rock", "80's", "Alternative"],
+    "Tags": ["Nederlands", "Rock", "80's"],
     "rank": null
   },
   {
     "ID": "KINK90s",
     "Name": "KINK 90's",
-    "Album": "",
-    "streamMP3": "https://stream.kink.nl/kink90s",
-    "streamAAC": "",
+    "Album": "Alternative Rock Radio",
+    "streamMP3": "https://playerservices.streamtheworld.com/api/livestream-redirect/KINK_90S.mp3",
+    "streamAAC": "https://playerservices.streamtheworld.com/api/livestream-redirect/KINK_90SAAC.aac",
     "ArtURL": "",
     "Category": "KINK",
-    "Tags": ["Nederlands", "Rock", "90's", "Alternative"],
+    "Tags": ["Nederlands", "Rock", "90's"],
+    "rank": null
+  },
+  {
+    "ID": "KINKNoAlternative",
+    "Name": "KINK No Alternative",
+    "Album": "Alternative Rock Radio",
+    "streamMP3": "https://playerservices.streamtheworld.com/api/livestream-redirect/KINK.mp3",
+    "streamAAC": "https://playerservices.streamtheworld.com/api/livestream-redirect/KINKAAC.aac",
+    "ArtURL": "",
+    "Category": "KINK",
+    "Tags": ["Nederlands", "Rock", "Metal", "Alternative"],
     "rank": null
   },
   {
     "ID": "KINKDistortion",
     "Name": "KINK Distortion",
-    "Album": "",
-    "streamMP3": "https://stream.kink.nl/kinkdistortion",
-    "streamAAC": "",
+    "Album": "Alternative Rock Radio",
+    "streamMP3": "https://playerservices.streamtheworld.com/api/livestream-redirect/KINK_DISTORTION.mp3",
+    "streamAAC": "https://playerservices.streamtheworld.com/api/livestream-redirect/KINK_DISTORTIONAAC.aac",
     "ArtURL": "",
     "Category": "KINK",
-    "Tags": ["Nederlands", "Rock", "Metal", "Alternative"],
+    "Tags": ["Nederlands", "Rock", "Metal"],
     "rank": null
   },
   {
