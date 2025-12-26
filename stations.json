@@ -412,7 +412,7 @@
     "Album": "Good times, great music",
     "streamMP3": "https://icecast-qmusicbe-cdp.triple-it.nl/joe.mp3",
     "streamAAC": "https://icecast-qmusicbe-cdp.triple-it.nl/joe.aac",
-    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/Joe/Joe.png",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/refs/heads/main/Joe%20Belgi%C3%AB/Joe%20Belgi%C3%AB.png",
     "Category": "Joe België",
     "Tags": ["Vlaams", "Pop", "Oldies"],
     "rank": null
