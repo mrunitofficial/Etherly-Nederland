@@ -419,11 +419,11 @@
   },
   {
     "ID": "JoeBelgie80s90s",
-    "Name": "Joe België 80's & 90's",
+    "Name": "Joe België 80s & 90s",
     "Album": "Good times, great music",
     "streamMP3": "https://icecast-qmusicbe-cdp.triple-it.nl/joe_80s_90s.mp3",
     "streamAAC": "https://icecast-qmusicbe-cdp.triple-it.nl/joe_80s_90s.aac",
-    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/refs/heads/main/Joe%20Belgi%C3%AB/Joe%20Belgi%C3%AB%2080s%2090s.png",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/refs/heads/main/Joe%20Belgi%C3%AB/Joe%20Belgi%C3%AB%2080s%20%26%2090s.png",
     "Category": "Joe België",
     "Tags": ["Vlaams", "Pop", "80's", "90's", "Oldies"],
     "rank": null
@@ -462,12 +462,12 @@
     "rank": null
   },
   {
-    "ID": "JoeBelgieLageLanden",
-    "Name": "Joe België Lage Landen",
+    "ID": "JoeBelgieLagelanden",
+    "Name": "Joe België Lage landen",
     "Album": "Good times, great music",
     "streamMP3": "https://icecast-qmusicbe-cdp.triple-it.nl/joe_lage_landen.mp3",
     "streamAAC": "https://icecast-qmusicbe-cdp.triple-it.nl/joe_lage_landen.aac",
-    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/refs/heads/main/Joe%20Belgi%C3%AB/Joe%20Belgi%C3%AB%20Lage%20Landen.png",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/refs/heads/main/Joe%20Belgi%C3%AB/Joe%20Belgi%C3%AB%20Lage%20landen.png",
     "Category": "Joe België",
     "Tags": ["Vlaams", "Nederpop"],
     "rank": null
