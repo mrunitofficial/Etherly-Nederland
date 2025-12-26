@@ -511,7 +511,7 @@
     "Album": "Alternative Rock Radio",
     "streamMP3": "https://playerservices.streamtheworld.com/api/livestream-redirect/KINK_DNA.mp3",
     "streamAAC": "https://playerservices.streamtheworld.com/api/livestream-redirect/KINK_DNAAAC.aac",
-    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/refs/heads/main/KINK/KINK%2080.png",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/refs/heads/main/KINK/KINK%2080's.png",
     "Category": "KINK",
     "Tags": ["Nederlands", "Rock", "80's"],
     "rank": null
@@ -522,7 +522,7 @@
     "Album": "Alternative Rock Radio",
     "streamMP3": "https://playerservices.streamtheworld.com/api/livestream-redirect/KINK_90S.mp3",
     "streamAAC": "https://playerservices.streamtheworld.com/api/livestream-redirect/KINK_90SAAC.aac",
-    "ArtURL": "",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/refs/heads/main/KINK/KINK%2090's.png",
     "Category": "KINK",
     "Tags": ["Nederlands", "Rock", "90's"],
     "rank": null
@@ -533,7 +533,7 @@
     "Album": "Alternative Rock Radio",
     "streamMP3": "https://playerservices.streamtheworld.com/api/livestream-redirect/KINK.mp3",
     "streamAAC": "https://playerservices.streamtheworld.com/api/livestream-redirect/KINKAAC.aac",
-    "ArtURL": "",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/refs/heads/main/KINK/KINK%20No%20Alternative.png",
     "Category": "KINK",
     "Tags": ["Nederlands", "Rock", "Metal", "Alternative"],
     "rank": null
@@ -544,7 +544,7 @@
     "Album": "Alternative Rock Radio",
     "streamMP3": "https://playerservices.streamtheworld.com/api/livestream-redirect/KINK_DISTORTION.mp3",
     "streamAAC": "https://playerservices.streamtheworld.com/api/livestream-redirect/KINK_DISTORTIONAAC.aac",
-    "ArtURL": "",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/refs/heads/main/KINK/KINK%20Distortion.png",
     "Category": "KINK",
     "Tags": ["Nederlands", "Rock", "Metal"],
     "rank": null
