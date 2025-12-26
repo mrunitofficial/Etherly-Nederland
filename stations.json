@@ -353,11 +353,11 @@
   },
   {
     "ID": "FunXHipHop",
-    "Name": "FunX Hip Hop",
+    "Name": "FunX Hiphop",
     "Album": "Your city, your sound",
     "streamMP3": "https://icecast.omroep.nl/funx-hiphop-bb-mp3",
     "streamAAC": "https://icecast.omroep.nl/funx-hiphop-bb-aac",
-    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/FunX/FunX%20Hip%20Hop.png",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/FunX/FunX%20Hiphop.png",
     "Category": "FunX",
     "Tags": ["Nederlands", "HipHop"],
     "rank": null
@@ -375,13 +375,35 @@
   },
   {
     "ID": "FunXSlowJamz",
-    "Name": "FunX Slow Jamz",
+    "Name": "FunX Slowjamz",
     "Album": "Your city, your sound",
     "streamMP3": "https://icecast.omroep.nl/funx-slowjamz-bb-mp3",
     "streamAAC": "https://icecast.omroep.nl/funx-slowjamz-bb-aac",
-    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/FunX/FunX%20Slow%20Jamz.png",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/FunX/FunX%20Slowjamz.png",
     "Category": "FunX",
     "Tags": ["Nederlands", "R&B", "Slow Jamz"],
+    "rank": null
+  },
+  {
+    "ID": "Joe",
+    "Name": "Joe",
+    "Album": "Good times, great music",
+    "streamMP3": "https://icecast-qmusicnl-cdp.triple-it.nl/Joe_nl.mp3",
+    "streamAAC": "https://icecast-qmusicnl-cdp.triple-it.nl/Joe_nl_high.aac",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/Joe/Joe.png",
+    "Category": "Joe",
+    "Tags": ["Nederlands", "Pop", "70's", "80's", "Oldies"],
+    "rank": null
+  },
+  {
+    "ID": "JoeNonstop",
+    "Name": "Joe Non-stop",
+    "Album": "Good times, great music",
+    "streamMP3": "https://icecast-qmusicnl-cdp.triple-it.nl/Joe_nl_nonstop.mp3",
+    "streamAAC": "https://icecast-qmusicnl-cdp.triple-it.nl/Joe_nl_nonstop_high.aac",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/Joe/Joe%20Nonstop.png",
+    "Category": "Joe",
+    "Tags": ["Nederlands", "Pop", "70's", "80's", "Oldies"],
     "rank": null
   },
   {
@@ -448,28 +470,6 @@
     "ArtURL": "",
     "Category": "Joe België",
     "Tags": ["Vlaams", "Pop", "Top2000", "Oldies"],
-    "rank": null
-  },
-  {
-    "ID": "JoeNederland",
-    "Name": "Joe Nederland",
-    "Album": "",
-    "streamMP3": "https://icecast-qmusicnl-cdp.triple-it.nl/Joe_nl.mp3",
-    "streamAAC": "",
-    "ArtURL": "",
-    "Category": "Joe Nederland",
-    "Tags": ["Nederlands", "Pop", "70's", "80's", "Oldies"],
-    "rank": null
-  },
-  {
-    "ID": "JoeNederlandNonStop",
-    "Name": "Joe Nederland Non-Stop",
-    "Album": "",
-    "streamMP3": "https://icecast-qmusicnl-cdp.triple-it.nl/Joe_nl_nonstop.mp3",
-    "streamAAC": "",
-    "ArtURL": "",
-    "Category": "Joe Nederland",
-    "Tags": ["Nederlands", "Pop", "70's", "80's", "Oldies"],
     "rank": null
   },
   {
