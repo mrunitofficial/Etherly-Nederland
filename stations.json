@@ -423,7 +423,7 @@
     "Album": "Good times, great music",
     "streamMP3": "https://icecast-qmusicbe-cdp.triple-it.nl/joe_80s_90s.mp3",
     "streamAAC": "https://icecast-qmusicbe-cdp.triple-it.nl/joe_80s_90s.aac",
-    "ArtURL": "",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/refs/heads/main/Joe%20Belgi%C3%AB/Joe%20Belgi%C3%AB%2080s%2090s.png",
     "Category": "Joe België",
     "Tags": ["Vlaams", "Pop", "80's", "90's", "Oldies"],
     "rank": null
@@ -434,7 +434,7 @@
     "Album": "Good times, great music",
     "streamMP3": "https://icecast-qmusicbe-cdp.triple-it.nl/joe_christmas.mp3",
     "streamAAC": "https://icecast-qmusicbe-cdp.triple-it.nl/joe-christmas.aac",
-    "ArtURL": "",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/refs/heads/main/Joe%20Belgi%C3%AB/Joe%20Belgi%C3%AB%20Christmas.png",
     "Category": "Joe België",
     "Tags": ["Vlaams", "Pop", "Top2000", "Oldies"],
     "rank": null
@@ -445,7 +445,7 @@
     "Album": "Good times, great music",
     "streamMP3": "https://icecast-qmusicbe-cdp.triple-it.nl/joe_easy.mp3",
     "streamAAC": "https://icecast-qmusicbe-cdp.triple-it.nl/joe_easy.aac",
-    "ArtURL": "",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/refs/heads/main/Joe%20Belgi%C3%AB/Joe%20Belgi%C3%AB%20Easy.png",
     "Category": "Joe België",
     "Tags": ["Vlaams", "Pop", "Easy Listening"],
     "rank": null
@@ -456,7 +456,7 @@
     "Album": "Good times, great music",
     "streamMP3": "https://icecast-qmusicbe-cdp.triple-it.nl/joe-gold.mp3",
     "streamAAC": "https://icecast-qmusicbe-cdp.triple-it.nl/joe-gold.aac",
-    "ArtURL": "",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/refs/heads/main/Joe%20Belgi%C3%AB/Joe%20Belgi%C3%AB%20Gold.png",
     "Category": "Joe België",
     "Tags": ["Vlaams", "Pop", "Oldies"],
     "rank": null
@@ -467,7 +467,7 @@
     "Album": "Good times, great music",
     "streamMP3": "https://icecast-qmusicbe-cdp.triple-it.nl/joe_lage_landen.mp3",
     "streamAAC": "https://icecast-qmusicbe-cdp.triple-it.nl/joe_lage_landen.aac",
-    "ArtURL": "",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/refs/heads/main/Joe%20Belgi%C3%AB/Joe%20Belgi%C3%AB%20Lage%20Landen.png",
     "Category": "Joe België",
     "Tags": ["Vlaams", "Nederpop"],
     "rank": null
@@ -478,7 +478,7 @@
     "Album": "Good times, great music",
     "streamMP3": "https://icecast-qmusicbe-cdp.triple-it.nl/joe_top2000.mp3",
     "streamAAC": "https://icecast-qmusicbe-cdp.triple-it.nl/joe_top2000.aac",
-    "ArtURL": "",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/refs/heads/main/Joe%20Belgi%C3%AB/Joe%20Belgi%C3%AB%20Top%202000.png",
     "Category": "Joe België",
     "Tags": ["Vlaams", "Pop", "Top2000", "Oldies"],
     "rank": null
