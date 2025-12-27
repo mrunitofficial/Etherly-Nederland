@@ -651,10 +651,10 @@
   {
     "ID": "Nostalgie",
     "Name": "Nostalgie",
-    "Album": "",
-    "streamMP3": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIE.mp3",
-    "streamAAC": "",
-    "ArtURL": "",
+    "Album": "What a feeling!",
+    "streamMP3": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIENL.mp3",
+    "streamAAC": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIENLAAC.aac",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/Nostalgie/Nostalgie.png",
     "Category": "Nostalgie",
     "Tags": ["Vlaams", "Pop", "Oldies"],
     "rank": null
