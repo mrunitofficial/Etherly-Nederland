@@ -847,6 +847,17 @@
     "rank": null
   },
   {
+    "ID": "RadioNoordzee",
+    "Name": "Radio Noordzee",
+    "Album": "200% Puur Hollands",
+    "streamMP3": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR17.mp3",
+    "streamAAC": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR17AAC.aac",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/Radio%20Noordzee/Radio%20Noordzee.png",
+    "Category": "Radio Noordzee",
+    "Tags": ["Nederlands", "Nederpop","Oldies"],
+    "rank": null
+  },
+  {
     "ID": "SLAM!",
     "Name": "SLAM!",
     "Album": "",
