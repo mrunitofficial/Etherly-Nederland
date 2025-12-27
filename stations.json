@@ -858,72 +858,6 @@
     "rank": null
   },
   {
-    "ID": "SLAM!",
-    "Name": "SLAM!",
-    "Album": "",
-    "streamMP3": "https://stream.slam.nl/slam_mp3",
-    "streamAAC": "",
-    "ArtURL": "",
-    "Category": "SLAM!",
-    "Tags": ["Nederlands", "Dance", "House"],
-    "rank": null
-  },
-  {
-    "ID": "SLAM!40",
-    "Name": "SLAM! 40",
-    "Album": "",
-    "streamMP3": "https://stream.slam.nl/web15_mp3",
-    "streamAAC": "",
-    "ArtURL": "",
-    "Category": "SLAM!",
-    "Tags": ["Nederlands", "Dance", "House", "Top40"],
-    "rank": null
-  },
-  {
-    "ID": "SLAM!HousuhInDePauzuh",
-    "Name": "SLAM! Housuh in de Pauzuh",
-    "Album": "",
-    "streamMP3": "https://stream.slam.nl/web11_mp3",
-    "streamAAC": "",
-    "ArtURL": "",
-    "Category": "SLAM!",
-    "Tags": ["Nederlands", "Hardstyle", "Dance", "House"],
-    "rank": null
-  },
-  {
-    "ID": "SLAM!Juize",
-    "Name": "SLAM! Juize",
-    "Album": "",
-    "streamMP3": "https://stream.slam.nl/web13_mp3",
-    "streamAAC": "",
-    "ArtURL": "",
-    "Category": "SLAM!",
-    "Tags": ["Nederlands", "HipHop", "R&B"],
-    "rank": null
-  },
-  {
-    "ID": "SLAM!Mixmarathon",
-    "Name": "SLAM! Mixmarathon",
-    "Album": "",
-    "streamMP3": "https://stream.slam.nl/web14_mp3",
-    "streamAAC": "",
-    "ArtURL": "",
-    "Category": "SLAM!",
-    "Tags": ["Nederlands", "Dance", "House", "DJ Mix"],
-    "rank": null
-  },
-  {
-    "ID": "SLAM!NonStop",
-    "Name": "SLAM! Non-Stop",
-    "Album": "",
-    "streamMP3": "https://stream.slam.nl/web12_mp3",
-    "streamAAC": "",
-    "ArtURL": "",
-    "Category": "SLAM!",
-    "Tags": ["Nederlands", "Dance", "House"],
-    "rank": null
-  },
-  {
     "ID": "SkyRadio",
     "Name": "Sky Radio",
     "Album": "",
@@ -965,6 +899,105 @@
     "ArtURL": "",
     "Category": "Sky Radio",
     "Tags": ["Nederlands", "Pop", "Easy Listening"],
+    "rank": null
+  },
+  {
+    "ID": "SLAM!",
+    "Name": "SLAM!",
+    "Album": "Boost your life!",
+    "streamMP3": "https://playerservices.streamtheworld.com/api/livestream-redirect/web14_mp3",
+    "streamAAC": "https://playerservices.streamtheworld.com/api/livestream-redirect/WEB14_AAC.aac",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/SLAM!/SLAM!.png",
+    "Category": "SLAM!",
+    "Tags": ["Nederlands", "Dance", "House"],
+    "rank": null
+  },
+  {
+    "ID": "SLAM!90s",
+    "Name": "SLAM! '90s",
+    "Album": "Boost your life!",
+    "streamMP3": "https://stream.slam.nl/slam_mp3",
+    "streamAAC": "",
+    "ArtURL": "",
+    "Category": "SLAM!",
+    "Tags": ["Nederlands", "Dance", "House"],
+    "rank": null
+  },
+  {
+    "ID": "SLAM!00s",
+    "Name": "SLAM! '00s",
+    "Album": "Boost your life!",
+    "streamMP3": "https://stream.slam.nl/slam_mp3",
+    "streamAAC": "",
+    "ArtURL": "",
+    "Category": "SLAM!",
+    "Tags": ["Nederlands", "Dance", "House"],
+    "rank": null
+  },
+  {
+    "ID": "SLAM!10s",
+    "Name": "SLAM! '10s",
+    "Album": "Boost your life!",
+    "streamMP3": "https://stream.slam.nl/slam_mp3",
+    "streamAAC": "",
+    "ArtURL": "",
+    "Category": "SLAM!",
+    "Tags": ["Nederlands", "Dance", "House"],
+    "rank": null
+  },
+  {
+    "ID": "SLAM!40",
+    "Name": "SLAM! 40",
+    "Album": "Boost your life!",
+    "streamMP3": "https://stream.slam.nl/web15_mp3",
+    "streamAAC": "",
+    "ArtURL": "",
+    "Category": "SLAM!",
+    "Tags": ["Nederlands", "Dance", "House", "Top40"],
+    "rank": null
+  },
+  {
+    "ID": "SLAM!HousuhInDePauzuh",
+    "Name": "SLAM! Housuh in de Pauzuh",
+    "Album": "Boost your life!",
+    "streamMP3": "https://stream.slam.nl/web11_mp3",
+    "streamAAC": "",
+    "ArtURL": "",
+    "Category": "SLAM!",
+    "Tags": ["Nederlands", "Hardstyle", "Dance", "House"],
+    "rank": null
+  },
+  {
+    "ID": "SLAM!Juize",
+    "Name": "SLAM! Juize",
+    "Album": "Boost your life!",
+    "streamMP3": "https://stream.slam.nl/web13_mp3",
+    "streamAAC": "",
+    "ArtURL": "",
+    "Category": "SLAM!",
+    "Tags": ["Nederlands", "HipHop", "R&B"],
+    "rank": null
+  },
+  {
+    "ID": "SLAM!Mixmarathon",
+    "Name": "SLAM! Mixmarathon",
+    "Album": "Boost your life!",
+    "streamMP3": "https://stream.slam.nl/web14_mp3",
+    "streamAAC": "",
+    "ArtURL": "",
+    "Category": "SLAM!",
+    "Tags": ["Nederlands", "Dance", "House", "DJ Mix"],
+    "rank": null
+  },
+  {
+    "ID": "SLAM!NonStop",
+    "Name": "SLAM! Non-Stop",
+    "Album": "Boost your life!",
+    "streamMP3": "https://stream.slam.nl/web12_mp3",
+    "streamAAC": "",
+    "ArtURL": "",
+    "Category": "SLAM!",
+    "Tags": ["Nederlands", "Dance", "House"],
     "rank": null
   },
   {
