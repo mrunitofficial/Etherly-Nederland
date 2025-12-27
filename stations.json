@@ -662,10 +662,32 @@
   {
     "ID": "OneWorldRadio",
     "Name": "One World Radio",
-    "Album": "The sound of Tomorrowland",
-    "streamMP3": "https://stream.bigfm.de/oneworldradio/mp3-128/tml",
-    "streamAAC": "",
-    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/OneWorldRadio.png",
+    "Album": "Live Today! Love Tomorrow! Unite Forever!",
+    "streamMP3": "https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_WORLD_RADIO_NL.mp3",
+    "streamAAC": "https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_WORLD_RADIO_NLAAC.aac",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/Tomorrowland/One%20World%20Radio.png",
+    "Category": "Tomorrowland",
+    "Tags": ["Dance", "House", "Tomorrowland"],
+    "rank": null
+  },
+  {
+    "ID": "TomorrowlandAnthems",
+    "Name": "Tomorrowland Anthems",
+    "Album": "Live Today! Love Tomorrow! Unite Forever!",
+    "streamMP3": "https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_DAB.mp3",
+    "streamAAC": "https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_DABAAC.aac",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/Tomorrowland/Tomorrowland%20Anthems.png",
+    "Category": "Tomorrowland",
+    "Tags": ["Dance", "House", "Tomorrowland"],
+    "rank": null
+  },
+  {
+    "ID": "DaybreakSessions",
+    "Name": "Daybreak Sessions",
+    "Album": "Live Today! Love Tomorrow! Unite Forever!",
+    "streamMP3": "https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_DAYBREAK.mp3",
+    "streamAAC": "https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_DAYBREAKAAC.aac",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/Tomorrowland/Daybreak%20Sessions.png",
     "Category": "Tomorrowland",
     "Tags": ["Dance", "House", "Tomorrowland"],
     "rank": null
