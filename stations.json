@@ -764,7 +764,7 @@
     "Album": "De grootste hits aller tijden!",
     "streamMP3": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO10.mp3",
     "streamAAC": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO10AAC.aac",
-    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/Radio10/Radio10.png",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/Radio%2010/Radio10.png",
     "Category": "Radio 10",
     "Tags": ["Nederlands", "Pop", "80's", "90's", "Oldies"],
     "rank": 4
@@ -775,7 +775,7 @@
     "Album": "De grootste hits aller tijden!",
     "streamMP3": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR18.mp3",
     "streamAAC": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR18AAC.aac",
-    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/Radio10/Radio10%2060's%20%26%2070's.png",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/Radio%2010/Radio10%2060's%20%26%2070's.png",
     "Category": "Radio 10",
     "Tags": ["Nederlands", "Pop", "60's", "70's", "Oldies"],
     "rank": null
@@ -786,7 +786,7 @@
     "Album": "De grootste hits aller tijden!",
     "streamMP3": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR20.mp3",
     "streamAAC": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR20AAC.aac",
-    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/Radio10/Radio10%2080's.png",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/Radio%2010/Radio10%2080's.png",
     "Category": "Radio 10",
     "Tags": ["Nederlands", "Pop", "80's", "Oldies"],
     "rank": null
@@ -797,7 +797,7 @@
     "Album": "De grootste hits aller tijden!",
     "streamMP3": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR22.mp3",
     "streamAAC": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR22AAC.aac",
-    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/Radio10/Radio10%2090's.png",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/Radio%2010/Radio10%2090's.png",
     "Category": "Radio 10",
     "Tags": ["Nederlands", "Pop", "90's", "Oldies"],
     "rank": null
@@ -808,7 +808,7 @@
     "Album": "De grootste hits aller tijden!",
     "streamMP3": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR04.mp3",
     "streamAAC": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR04AAC.aac",
-    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/Radio10/Radio10%20Love%20Songs.png",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/Radio%2010/Radio10%20Love%20Songs.png",
     "Category": "Radio 10",
     "Tags": ["Nederlands", "Pop", "90's", "Oldies"],
     "rank": null
@@ -819,7 +819,7 @@
     "Album": "De grootste hits aller tijden!",
     "streamMP3": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR23.mp3",
     "streamAAC": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR23AAC.aac",
-    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/Radio10/Radio10%20Disco%20Classics.png",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/Radio%2010/Radio10%20Disco%20Classics.png",
     "Category": "Radio 10",
     "Tags": ["Nederlands", "Disco", "70's", "80's", "Oldies"],
     "rank": null
@@ -830,7 +830,7 @@
     "Album": "De grootste hits aller tijden!",
     "streamMP3": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR15.mp3",
     "streamAAC": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR15AAC.aac",
-    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/Radio10/Radio10%20Non-Stop.png",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/Radio%2010/Radio10%20Non-Stop.png",
     "Category": "Radio 10",
     "Tags": ["Nederlands", "Disco", "70's", "80's", "Oldies"],
     "rank": null
@@ -841,7 +841,7 @@
     "Album": "De grootste hits aller tijden!",
     "streamMP3": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR24.mp3",
     "streamAAC": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR24AAC.aac",
-    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/Radio10/Radio10%20Top%204000.png",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/Radio%2010/Radio10%20Top%204000.png",
     "Category": "Radio 10",
     "Tags": ["Nederlands", "Pop", "Top4000", "Oldies"],
     "rank": null
