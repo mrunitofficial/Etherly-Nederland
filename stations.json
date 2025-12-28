@@ -888,7 +888,7 @@
     "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/Sky/Sky%20@Work.png",
     "Category": "Sky",
     "Tags": ["Nederlands", "Pop", "Easy Listening"],
-    "rank": 5
+    "rank": null
   },
   {
     "ID": "Sky80sHits",
@@ -899,7 +899,7 @@
     "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/Sky/Sky%2080's%20Hits.png",
     "Category": "Sky",
     "Tags": ["Nederlands", "Pop", "Easy Listening"],
-    "rank": 5
+    "rank": null
   },
   {
     "ID": "Sky00s&10s",
@@ -910,7 +910,7 @@
     "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/Sky/Sky%2000's%20&%2010's.png",
     "Category": "Sky",
     "Tags": ["Nederlands", "Pop", "Easy Listening"],
-    "rank": 5
+    "rank": null
   },
   {
     "ID": "SkyChristmas",
