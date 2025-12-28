@@ -550,6 +550,17 @@
     "rank": null
   },
   {
+    "ID": "OmroepBrabant",
+    "Name": "Omroep Brabant",
+    "Album": "Het gevoel van hier",
+    "streamMP3": "http://av.omroepbrabant.nl/icecast/omroepbrabant/mp3",
+    "streamAAC": "",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/Lokale%20Omroepen/Omroep%20Brabant.png",
+    "Category": "Lokale Omroepen",
+    "Tags": ["Nederlands", "Regionaal", "Pop"],
+    "rank": null
+  },
+  {
     "ID": "NPORadio1",
     "Name": "NPO Radio 1",
     "Album": "Wie luistert, weet meer",
