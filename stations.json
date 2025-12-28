@@ -412,7 +412,7 @@
     "Album": "Good times, great music",
     "streamMP3": "https://icecast-qmusicbe-cdp.triple-it.nl/joe.mp3",
     "streamAAC": "https://icecast-qmusicbe-cdp.triple-it.nl/joe.aac",
-    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/refs/heads/main/Joe%20Belgi%C3%AB/Joe%20Belgi%C3%AB.png",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/Joe%20Belgi%C3%AB/Joe%20Belgi%C3%AB.png",
     "Category": "Joe België",
     "Tags": ["Vlaams", "Pop", "Oldies"],
     "rank": null
@@ -423,7 +423,7 @@
     "Album": "Good times, great music",
     "streamMP3": "https://icecast-qmusicbe-cdp.triple-it.nl/joe_80s_90s.mp3",
     "streamAAC": "https://icecast-qmusicbe-cdp.triple-it.nl/joe_80s_90s.aac",
-    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/refs/heads/main/Joe%20Belgi%C3%AB/Joe%20Belgi%C3%AB%2080s%20%26%2090s.png",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/Joe%20Belgi%C3%AB/Joe%20Belgi%C3%AB%2080s%20%26%2090s.png",
     "Category": "Joe België",
     "Tags": ["Vlaams", "Pop", "80's", "90's", "Oldies"],
     "rank": null
@@ -434,7 +434,7 @@
     "Album": "Good times, great music",
     "streamMP3": "https://dpgmedia.streamtheuniverse.com/joe-christmas.mp3",
     "streamAAC": "https://dpgmedia.streamtheuniverse.com/joe-christmas.aac",
-    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/refs/heads/main/Joe%20Belgi%C3%AB/Joe%20Belgi%C3%AB%20Christmas.png",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/Joe%20Belgi%C3%AB/Joe%20Belgi%C3%AB%20Christmas.png",
     "Category": "Joe België",
     "Tags": ["Vlaams", "Pop", "Top2000", "Oldies"],
     "rank": null
@@ -445,7 +445,7 @@
     "Album": "Good times, great music",
     "streamMP3": "https://icecast-qmusicbe-cdp.triple-it.nl/joe_easy.mp3",
     "streamAAC": "https://icecast-qmusicbe-cdp.triple-it.nl/joe_easy.aac",
-    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/refs/heads/main/Joe%20Belgi%C3%AB/Joe%20Belgi%C3%AB%20Easy.png",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/Joe%20Belgi%C3%AB/Joe%20Belgi%C3%AB%20Easy.png",
     "Category": "Joe België",
     "Tags": ["Vlaams", "Pop", "Easy Listening"],
     "rank": null
@@ -456,7 +456,7 @@
     "Album": "Good times, great music",
     "streamMP3": "https://icecast-qmusicbe-cdp.triple-it.nl/joe-gold.mp3",
     "streamAAC": "https://icecast-qmusicbe-cdp.triple-it.nl/joe-gold.aac",
-    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/refs/heads/main/Joe%20Belgi%C3%AB/Joe%20Belgi%C3%AB%20Gold.png",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/Joe%20Belgi%C3%AB/Joe%20Belgi%C3%AB%20Gold.png",
     "Category": "Joe België",
     "Tags": ["Vlaams", "Pop", "Oldies"],
     "rank": null
@@ -467,7 +467,7 @@
     "Album": "Good times, great music",
     "streamMP3": "https://icecast-qmusicbe-cdp.triple-it.nl/joe_lage_landen.mp3",
     "streamAAC": "https://icecast-qmusicbe-cdp.triple-it.nl/joe_lage_landen.aac",
-    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/refs/heads/main/Joe%20Belgi%C3%AB/Joe%20Belgi%C3%AB%20Lage%20landen.png",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/Joe%20Belgi%C3%AB/Joe%20Belgi%C3%AB%20Lage%20landen.png",
     "Category": "Joe België",
     "Tags": ["Vlaams", "Nederpop"],
     "rank": null
@@ -478,7 +478,7 @@
     "Album": "Good times, great music",
     "streamMP3": "https://icecast-qmusicbe-cdp.triple-it.nl/joe_top2000.mp3",
     "streamAAC": "https://icecast-qmusicbe-cdp.triple-it.nl/joe_top2000.aac",
-    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/refs/heads/main/Joe%20Belgi%C3%AB/Joe%20Belgi%C3%AB%20Top%202000.png",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/Joe%20Belgi%C3%AB/Joe%20Belgi%C3%AB%20Top%202000.png",
     "Category": "Joe België",
     "Tags": ["Vlaams", "Pop", "Top2000", "Oldies"],
     "rank": null
@@ -489,7 +489,7 @@
     "Album": "En dat voor die prijs!",
     "streamMP3": "https://streams.automates.media/jumboradio",
     "streamAAC": "",
-    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/refs/heads/main/Jumbo/Jumbo%20Radio.png",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/Jumbo/Jumbo%20Radio.png",
     "Category": "Jumbo",
     "Tags": ["Nederlands", "Pop"],
     "rank": null
@@ -500,7 +500,7 @@
     "Album": "Alternative Rock Radio",
     "streamMP3": "https://22343.live.streamtheworld.com/KINK.mp3",
     "streamAAC": "https://22343.live.streamtheworld.com/KINKAAC2.aac",
-    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/refs/heads/main/KINK/KINK.png",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/KINK/KINK.png",
     "Category": "KINK",
     "Tags": ["Nederlands", "Rock", "Alternative"],
     "rank": null
@@ -511,7 +511,7 @@
     "Album": "Alternative Rock Radio",
     "streamMP3": "https://playerservices.streamtheworld.com/api/livestream-redirect/KINK_DNA.mp3",
     "streamAAC": "https://playerservices.streamtheworld.com/api/livestream-redirect/KINK_DNAAAC.aac",
-    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/refs/heads/main/KINK/KINK%2080's.png",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/KINK/KINK%2080's.png",
     "Category": "KINK",
     "Tags": ["Nederlands", "Rock", "80's"],
     "rank": null
@@ -522,7 +522,7 @@
     "Album": "Alternative Rock Radio",
     "streamMP3": "https://playerservices.streamtheworld.com/api/livestream-redirect/KINK_90S.mp3",
     "streamAAC": "https://playerservices.streamtheworld.com/api/livestream-redirect/KINK_90SAAC.aac",
-    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/refs/heads/main/KINK/KINK%2090's.png",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/KINK/KINK%2090's.png",
     "Category": "KINK",
     "Tags": ["Nederlands", "Rock", "90's"],
     "rank": null
@@ -533,7 +533,7 @@
     "Album": "Alternative Rock Radio",
     "streamMP3": "https://playerservices.streamtheworld.com/api/livestream-redirect/KINK.mp3",
     "streamAAC": "https://playerservices.streamtheworld.com/api/livestream-redirect/KINKAAC.aac",
-    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/refs/heads/main/KINK/KINK%20No%20Alternative.png",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/KINK/KINK%20No%20Alternative.png",
     "Category": "KINK",
     "Tags": ["Nederlands", "Rock", "Metal", "Alternative"],
     "rank": null
@@ -544,7 +544,7 @@
     "Album": "Alternative Rock Radio",
     "streamMP3": "https://playerservices.streamtheworld.com/api/livestream-redirect/KINK_DISTORTION.mp3",
     "streamAAC": "https://playerservices.streamtheworld.com/api/livestream-redirect/KINK_DISTORTIONAAC.aac",
-    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/refs/heads/main/KINK/KINK%20Distortion.png",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/KINK/KINK%20Distortion.png",
     "Category": "KINK",
     "Tags": ["Nederlands", "Rock", "Metal"],
     "rank": null
@@ -775,7 +775,7 @@
     "Album": "De grootste hits aller tijden!",
     "streamMP3": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR18.mp3",
     "streamAAC": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR18AAC.aac",
-    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/refs/heads/main/Radio%2010/Radio%2010%2060's%20%26%2070's%20Hits.png",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/Radio%2010/Radio%2010%2060's%20%26%2070's%20Hits.png",
     "Category": "Radio 10",
     "Tags": ["Nederlands", "Pop", "60's", "70's", "Oldies"],
     "rank": null
@@ -786,7 +786,7 @@
     "Album": "De grootste hits aller tijden!",
     "streamMP3": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR20.mp3",
     "streamAAC": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR20AAC.aac",
-    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/refs/heads/main/Radio%2010/Radio%2010%2080's%20Hits.png",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/Radio%2010/Radio%2010%2080's%20Hits.png",
     "Category": "Radio 10",
     "Tags": ["Nederlands", "Pop", "80's", "Oldies"],
     "rank": null
@@ -797,7 +797,7 @@
     "Album": "De grootste hits aller tijden!",
     "streamMP3": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR22.mp3",
     "streamAAC": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR22AAC.aac",
-    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/refs/heads/main/Radio%2010/Radio%2010%2090's%20Hits.png",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/Radio%2010/Radio%2010%2090's%20Hits.png",
     "Category": "Radio 10",
     "Tags": ["Nederlands", "Pop", "90's", "Oldies"],
     "rank": null
@@ -863,51 +863,51 @@
     "Album": "Non-stop feel good voor jouw dag",
     "streamMP3": "https://playerservices.streamtheworld.com/api/livestream-redirect/SKYRADIO.mp3",
     "streamAAC": "https://playerservices.streamtheworld.com/api/livestream-redirect/SKYRADIOAAC.aac",
-    "ArtURL": "",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/Sky/Sky%20Radio.png",
     "Category": "Sky",
     "Tags": ["Nederlands", "Pop", "Easy Listening"],
     "rank": 5
   },
   {
-    "ID": "SkyRadio@Work",
-    "Name": "Sky Radio @Work",
+    "ID": "Sky@Work",
+    "Name": "Sky @Work",
     "Album": "Non-stop feel good voor jouw dag",
     "streamMP3": "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR24.mp3",
     "streamAAC": "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR24AAC.aac",
-    "ArtURL": "",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/Sky/Sky%20@Work.png",
     "Category": "Sky",
     "Tags": ["Nederlands", "Pop", "Easy Listening"],
     "rank": 5
   },
   {
-    "ID": "SkyRadio80sHits",
-    "Name": "Sky Radio 80's Hits",
+    "ID": "Sky80sHits",
+    "Name": "Sky 80's Hits",
     "Album": "Non-stop feel good voor jouw dag",
     "streamMP3": "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR04.mp3",
     "streamAAC": "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR04AAC.aac",
-    "ArtURL": "",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/Sky/Sky%2080's%20Hits.png",
     "Category": "Sky",
     "Tags": ["Nederlands", "Pop", "Easy Listening"],
     "rank": 5
   },
   {
-    "ID": "SkyRadio00s&10s",
-    "Name": "Sky Radio 00's & 10's",
+    "ID": "Sky00s&10s",
+    "Name": "Sky 00's & 10's",
     "Album": "Non-stop feel good voor jouw dag",
     "streamMP3": "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR05.mp3",
     "streamAAC": "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR05AAC.aac",
-    "ArtURL": "",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/Sky/Sky%2000's%20&%2010's.png",
     "Category": "Sky",
     "Tags": ["Nederlands", "Pop", "Easy Listening"],
     "rank": 5
   },
   {
     "ID": "SkyChristmas",
-    "Name": "SkyChristmas",
+    "Name": "Sky Christmas",
     "Album": "Non-stop feel good voor jouw dag",
     "streamMP3": "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR08.mp3",
     "streamAAC": "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR08AAC.aac",
-    "ArtURL": "",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/Sky/Sky%20Christmas.png",
     "Category": "Sky",
     "Tags": ["Nederlands", "Kerst"],
     "rank": null
@@ -918,7 +918,7 @@
     "Album": "Non-stop feel good voor jouw dag",
     "streamMP3": "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR01.mp3",
     "streamAAC": "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR01AAC.aac",
-    "ArtURL": "",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/Sky/Sky%20Hits.png",
     "Category": "Sky",
     "Tags": ["Nederlands", "Kerst"],
     "rank": null
@@ -929,7 +929,7 @@
     "Album": "Non-stop feel good voor jouw dag",
     "streamMP3": "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR03.mp3",
     "streamAAC": "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR03AAC.aac",
-    "ArtURL": "",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/Sky/Sky%20Love%20Songs.png",
     "Category": "Sky",
     "Tags": ["Nederlands", "Pop", "Lovesongs"],
     "rank": null
@@ -940,7 +940,7 @@
     "Album": "Non-stop feel good voor jouw dag",
     "streamMP3": "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR24.mp3",
     "streamAAC": "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR24AAC.aac",
-    "ArtURL": "",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/Sky/Sky%20Non%20Stop.png",
     "Category": "Sky",
     "Tags": ["Nederlands", "Pop"],
     "rank": null
@@ -951,7 +951,7 @@
     "Album": "Non-stop feel good voor jouw dag",
     "streamMP3": "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR15.mp3",
     "streamAAC": "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR15AAC.aac",
-    "ArtURL": "",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/Sky/Sky%20Smooth%20Hits.png",
     "Category": "Sky",
     "Tags": ["Nederlands", "Pop"],
     "rank": null
@@ -962,7 +962,7 @@
     "Album": "Non-stop feel good voor jouw dag",
     "streamMP3": "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR28.mp3",
     "streamAAC": "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR28AAC.aac",
-    "ArtURL": "",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/Sky/Sky%20Summer%20Hits.png",
     "Category": "Sky",
     "Tags": ["Nederlands", "Pop", "Zomer"],
     "rank": null
@@ -973,7 +973,7 @@
     "Album": "Non-stop feel good voor jouw dag",
     "streamMP3": "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR07.mp3",
     "streamAAC": "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR07AAC.aac",
-    "ArtURL": "",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/Sky/Sky%20Top%201000.png",
     "Category": "Sky",
     "Tags": ["Nederlands", "Pop", "Zomer"],
     "rank": null
@@ -995,7 +995,7 @@
     "Album": "Boost your life!",
     "streamMP3": "https://playerservices.streamtheworld.com/api/livestream-redirect/web08_mp3",
     "streamAAC": "https://playerservices.streamtheworld.com/api/livestream-redirect/WEB08_AAC.aac",
-    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/refs/heads/main/SLAM!/SLAM!%20'90's.png",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/SLAM!/SLAM!%20'90's.png",
     "Category": "SLAM!",
     "Tags": ["Nederlands", "Dance", "House"],
     "rank": null
@@ -1006,7 +1006,7 @@
     "Album": "Boost your life!",
     "streamMP3": "https://playerservices.streamtheworld.com/api/livestream-redirect/web15_mp3",
     "streamAAC": "https://playerservices.streamtheworld.com/api/livestream-redirect/WEB15_AAC.aac",
-    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/refs/heads/main/SLAM!/SLAM!%20'00s.png",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/SLAM!/SLAM!%20'00s.png",
     "Category": "SLAM!",
     "Tags": ["Nederlands", "Dance", "House"],
     "rank": null
@@ -1017,7 +1017,7 @@
     "Album": "Boost your life!",
     "streamMP3": "https://playerservices.streamtheworld.com/api/livestream-redirect/web14_mp3",
     "streamAAC": "https://playerservices.streamtheworld.com/api/livestream-redirect/WEB14_AAC.aac",
-    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/refs/heads/main/SLAM!/SLAM!%20'10s.png",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/SLAM!/SLAM!%20'10s.png",
     "Category": "SLAM!",
     "Tags": ["Nederlands", "Dance", "House"],
     "rank": null
@@ -1028,7 +1028,7 @@
     "Album": "Boost your life!",
     "streamMP3": "https://playerservices.streamtheworld.com/api/livestream-redirect/web16_mp3",
     "streamAAC": "https://playerservices.streamtheworld.com/api/livestream-redirect/WEB16_AAC.aac",
-    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/refs/heads/main/SLAM!/SLAM!%20Housuh%20in%20de%20Pauzuh.png",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/SLAM!/SLAM!%20Housuh%20in%20de%20Pauzuh.png",
     "Category": "SLAM!",
     "Tags": ["Nederlands", "Hardstyle", "Dance", "House"],
     "rank": null
