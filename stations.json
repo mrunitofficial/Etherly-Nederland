@@ -935,12 +935,12 @@
     "rank": null
   },
   {
-    "ID": "SkyNonStop",
-    "Name": "Sky Non Stop",
+    "ID": "SkyRadioNonStop",
+    "Name": "Sky Radio Non Stop",
     "Album": "Non-stop feel good voor jouw dag",
     "streamMP3": "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR24.mp3",
     "streamAAC": "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR24AAC.aac",
-    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/Sky/Sky%20Non%20Stop.png",
+    "ArtURL": "https://raw.githubusercontent.com/mrunitofficial/Etherly-Nederland/main/Sky/Sky%20Radio%20Non%20Stop.png",
     "Category": "Sky",
     "Tags": ["Nederlands", "Pop"],
     "rank": null
